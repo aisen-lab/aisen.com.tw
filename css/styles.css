@@ -3992,6 +3992,7 @@ input[type=button].btn-block {
   font-size: 1.25rem;
   line-height: inherit;
   white-space: nowrap;
+  
 }
 .navbar-brand:hover, .navbar-brand:focus {
   text-decoration: none;
@@ -10026,8 +10027,9 @@ hr.light {
   transition: background-color 0.2s ease;
 }
 #mainNav .navbar-brand {
-  font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-weight: 700;
+  font-family: "greycliff-cf", sans-serif;
+  font-weight: 600;
+  font-style: normal;
   color: #212529;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
