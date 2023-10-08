@@ -10153,3 +10153,9 @@ header.masthead h1 {
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
 }
+
+.aisen-logo {
+  font-family: "greycliff-cf", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
